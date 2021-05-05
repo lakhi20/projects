@@ -1,0 +1,27 @@
+*{
+    /* margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+ */}
+
+img{
+    height: 150px;
+}
+.description{
+    font-size: 20px;
+}
+
+#cook-time{
+    font-weight: bold;
+}
+ li{
+    list-style: square;
+}
+
+p.time{
+    color: rgb(117, 16, 16);
+}
+
+.external-link{
+    color: SeaGreen;
+}
